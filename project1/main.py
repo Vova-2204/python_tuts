@@ -1,1 +1,2 @@
-print("Enter a todo:")
+text = input("Enter todo: ")
+print(text)
